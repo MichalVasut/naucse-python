@@ -2329,11 +2329,6 @@
                         "type": "lesson"
                     },
                     {
-                        "lesson_slug": "beginners/vscode",
-                        "title": "VS Code & Python",
-                        "type": "lesson"
-                    },
-                    {
                         "title": "Videa ke shlédnutí",
                         "type": "special"
                     },
@@ -2411,6 +2406,11 @@
                     {
                         "title": "Další odkazy a materiály",
                         "type": "special"
+                    },
+                    {
+                        "lesson_slug": "beginners/vscode",
+                        "title": "VS Code & Python",
+                        "type": "lesson"
                     }
                 ],
                 "serial": "8",
